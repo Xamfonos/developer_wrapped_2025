@@ -12,7 +12,7 @@ An immersive, scroll-driven web experience exploring the biggest trends, debates
 
 ### Top 12 Trends of 2025:
 
-1. **🤖 AI Coding Revolution** - 84% adoption, Gartner predictions, OpenAI dominance
+1. **AI Coding Revolution** - 84% adoption, Gartner predictions, OpenAI dominance
 2. **Cursor vs Copilot** - The great AI coding tool debate
 3. **Vibe Coding** - Karpathy's term that broke the internet
 4. **Language Wars** - Python's surge, Rust's admiration, TypeScript's industry vote
