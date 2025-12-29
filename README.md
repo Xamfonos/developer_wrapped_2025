@@ -6,7 +6,7 @@ An immersive, scroll-driven web experience exploring the biggest trends, debates
 
 ## Live Site
 
-**[View the Developer Wrap →](https://YOUR-USERNAME.github.io/developer-wrap-2025/)**
+**[View the Developer Wrap →](https://xamfonos.github.io/developer_wrapped_2025/)**
 
 ## 📖 What's Inside
 
