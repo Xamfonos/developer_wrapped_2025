@@ -4,7 +4,7 @@
 
 An immersive, scroll-driven web experience exploring the biggest trends, debates, and cultural shifts that defined software development in 2025.
 
-## 🎯 Live Site
+## Live Site
 
 **[View the Developer Wrap →](https://YOUR-USERNAME.github.io/developer-wrap-2025/)**
 
@@ -13,17 +13,17 @@ An immersive, scroll-driven web experience exploring the biggest trends, debates
 ### Top 12 Trends of 2025:
 
 1. **🤖 AI Coding Revolution** - 84% adoption, Gartner predictions, OpenAI dominance
-2. **🥊 Cursor vs Copilot** - The great AI coding tool debate
-3. **✨ Vibe Coding** - Karpathy's term that broke the internet
-4. **📊 Language Wars** - Python's surge, Rust's admiration, TypeScript's industry vote
-5. **🔐 Security & Trust Crisis** - npm attacks, AI vulnerabilities, the trust paradox
-6. **📚 Developer Culture Shifts** - Stack Overflow's existential moment, learning paradoxes
-7. **⚙️ DevOps Evolution** - Platform engineering becomes real, AIOps accelerates
-8. **🌐 Dead Internet Theory** - From conspiracy to metric, "slop" becomes word of the year
-9. **🎯 Key Debates** - AI productivity, platform engineering, microservices
-10. **🔮 Lessons Learned** - Orchestration, trust paradoxes, authenticity
-11. **❓ Questions for 2026** - What's next for developers?
-12. **💡 Final Advice** - Stay adaptable, trust but verify, build for humans
+2. **Cursor vs Copilot** - The great AI coding tool debate
+3. **Vibe Coding** - Karpathy's term that broke the internet
+4. **Language Wars** - Python's surge, Rust's admiration, TypeScript's industry vote
+5. **Security & Trust Crisis** - npm attacks, AI vulnerabilities, the trust paradox
+6. **Developer Culture Shifts** - Stack Overflow's existential moment, learning paradoxes
+7. **DevOps Evolution** - Platform engineering becomes real, AIOps accelerates
+8. **Dead Internet Theory** - From conspiracy to metric, "slop" becomes word of the year
+9. **Key Debates** - AI productivity, platform engineering, microservices
+10. **Lessons Learned** - Orchestration, trust paradoxes, authenticity
+11. **Questions for 2026** - What's next for developers?
+12. **Final Advice** - Stay adaptable, trust but verify, build for humans
 
 ## 🎨 Design Features
 
@@ -116,7 +116,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🙏 Credits
 
-**Created by Hackmamba**
+**Created by Henry Bassey**
 
 Built with data from:
 - Stack Overflow community
